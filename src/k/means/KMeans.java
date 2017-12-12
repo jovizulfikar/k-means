@@ -31,8 +31,10 @@ public class KMeans {
         }
     }
     
-    public static void centroid(double data[]){
-    
+    public static void centroid(double[][] dataset, int k){
+        
+        
+        
     }
     
 }
